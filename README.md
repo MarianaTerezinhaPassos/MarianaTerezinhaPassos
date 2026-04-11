@@ -22,3 +22,10 @@ Native Portuguese • Full Professional English • Intermediate Spanish
 To work in data-driven environments, using analytics to support strategic business decisions.
 
 Let's connect! [LinkedIn](https://www.linkedin.com/in/mariana-passos-profile)
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MarianaTerezinhaPassos&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues,prs" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=MarianaTerezinhaPassos&theme=tokyonight" width="49%"/>
