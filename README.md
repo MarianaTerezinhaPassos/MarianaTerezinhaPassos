@@ -7,10 +7,12 @@ Bachelor of International Relations and a professional dedicated to transforming
 * Education: B.A. in International Relations from UNIFESP and a Technical degree in Business Administration from ETEC.
 
 ## 💻 Projects 
-Currently building my first data analysis projects focused on:
-* Exploratory data analysis
-* Business insights generation
-* Dashboard development  
+[E-Commerce Market Intelligence Analysis](https://github.com/MarianaTerezinhaPassos/analise-vendas-e-commerce)
+
+Interactive dashboard and SQL-based exploratory data analysis.
+* Objective: Analyzed Brazilian marketplace data to identify revenue growth opportunities and optimize logistics costs.
+* Tech Stack: SQL, Power BI, Excel.
+* Key Insights: Regional sales trends, freight impact on profitability, and customer behavior analysis.
 
 ## 🛠️ Tools
 Excel • SQL • Power BI • Python 
